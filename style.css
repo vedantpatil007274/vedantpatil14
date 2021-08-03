@@ -37,9 +37,9 @@ h3 {
 }
 
 .menu {
-    background: linear-gradient(90deg, rgba(0,249,244,1) 0%, rgba(125,255,114,1) 50%, rgba(255,255,97,1) 100%);
-    text-align:center;
-    text-decoration:none;
+    background: linear-gradient(90deg, rgba(0, 249, 244, 1) 0%, rgba(125, 255, 114, 1) 50%, rgba(255, 255, 97, 1) 100%);
+    text-align: center;
+    text-decoration: none;
     list-style: none;
     cursor: pointer;
     position: fixed;
@@ -67,7 +67,7 @@ h3 {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    color:white;
+    color: white;
 }
 
 .section1 {
@@ -97,18 +97,22 @@ html {
 #Articles {
     background: linear-gradient(90deg, rgba(249, 0, 0, 1) 0%, rgba(255, 114, 234, 1) 50%, rgba(130, 97, 255, 1) 100%);
 }
-img{
-    transition:transform .2s;
+
+img {
+    transition: transform .2s;
 }
-img:hover{
-    transform:scale(0.9);
-    border-color:darkblue;
-    border-width:5px;
-    border-style:dotted;
+
+img:hover {
+    transform: scale(0.9);
+    border-color: darkblue;
+    border-width: 5px;
+    border-style: dotted;
 }
-#Contact{
-    background: linear-gradient(90deg, rgba(249,114,0,1) 0%, rgba(255,252,114,1) 50%, rgba(97,255,122,1) 100%);
+
+#Contact {
+    background: linear-gradient(90deg, rgba(249, 114, 0, 1) 0%, rgba(255, 252, 114, 1) 50%, rgba(97, 255, 122, 1) 100%);
 }
-a{
-    text-decoration:none;
+
+a {
+    text-decoration: none;
 }
